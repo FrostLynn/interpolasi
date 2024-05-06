@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 
-import com.example.app.R;
+import uwu.frostlynn.interpolasi.R;
 
 public class MainActivity extends Activity {
 
@@ -26,7 +26,7 @@ public class MainActivity extends Activity {
         // mWebView.loadUrl("https://example.com");
 
         // LOCAL RESOURCE
-        // mWebView.loadUrl("file:///android_asset/index.html");
+        mWebView.loadUrl("file:///android_asset/index.html");
     }
 
     @Override
