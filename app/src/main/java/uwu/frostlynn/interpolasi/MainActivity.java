@@ -1,10 +1,12 @@
-package com.example.app;
+package uwu.frostlynn.interpolasi;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.os.Bundle;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
+
+import com.example.app.R;
 
 public class MainActivity extends Activity {
 
